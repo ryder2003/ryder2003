@@ -1,57 +1,46 @@
-# 👨‍💻 Hello, I'm a Developer
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_Something_Cool-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Mobile_&_Competitive_Programming-blue?style=flat-square">
-</p>
-
----
-
-### 🛠️ My Digital Toolbox
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **Languages** | `C++` `Python` `JavaScript` `Dart` |
-| **Frontend/Mobile** | `Flutter` `React` `TailwindCSS` |
-| **Backend/DB** | `Node.js` `Firebase` `PostgreSQL` |
-| **Tools** | `Git` `Docker` `Postman` |
-
----
-
-### 📈 GitHub Analytics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=System.out.println(%22Hello%22);&fontSize=50&animation=twinkling" width="100%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Competitive+Programmer;Mobile+Systems+Architect;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
 
-### 📂 Recent Activity
-- 🚀 Working on cross-platform mobile experiences.
-- 🧩 Solving complex algorithmic challenges.
-- 🏗️ Exploring scalable backend architectures.
+### 🛠️ Tech Stack Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart,flutter,react,nextjs,nodejs,express,firebase,mongodb,postgres,git,docker,aws,linux,vscode" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 📊 Engineering Analytics
 
-<p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://leetcode.com" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&theme=radical&hide_border=true&title_color=A970FF&icon_color=82AAFF&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=82AAFF&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-</p>
+---
+
+### ⚡ Development Workflow
+
+```mermaid
+graph LR
+    A[Analyze] --> B(Logic / DSA)
+    B --> C{Development}
+    C -->|Mobile| D[Flutter / Dart]
+    C -->|Web| E[MERN / Next.js]
+    D --> F[Deployment]
+    E --> F[Deployment]
+    style A fill:#1a1a1a,stroke:#A970FF,stroke-width:2px,color:#fff
+    style C fill:#1a1a1a,stroke:#82AAFF,stroke-width:2px,color:#fff
+    style F fill:#1a1a1a,stroke:#50FA7B,stroke-width:2px,color:#fff

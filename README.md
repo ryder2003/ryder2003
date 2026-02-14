@@ -1,49 +1,57 @@
-# Hi there 👋 I'm Raman Bir Singh
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryder2003&layout=compact&theme=dracula&hide_border=false&border_radius=10" height="165" />
-</div>
-
----
-
-### 🚀 About Me
-- 🎓 **B.Tech in Information Technology** @ [IIIT Allahabad](https://www.iiita.ac.in/) (2023 - Present)
-- 📱 **Core Member** @ [GDSC IIITA](https://gdsc.community.dev/indian-institute-of-information-technology-allahabad/) (App Development Wing)
-- 💡 **Head of App Dev** @ Club of Professionals, IIITA
-- 🏆 **Competitive Programmer**: 700+ DSA problems solved | AIR 2818 in JEE Mains 2023
-- 🛠️ Currently deep-diving into **Flutter, Dart, and Firebase**
-
----
-
-### 🛠️ Tech Stack & Tools
+# 👨‍💻 Hello, I'm a Developer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_Something_Cool-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Mobile_&_Competitive_Programming-blue?style=flat-square">
 </p>
 
 ---
 
-### 📊 Coding Activity
+### 🛠️ My Digital Toolbox
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | `C++` `Python` `JavaScript` `Dart` |
+| **Frontend/Mobile** | `Flutter` `React` `TailwindCSS` |
+| **Backend/DB** | `Node.js` `Firebase` `PostgreSQL` |
+| **Tools** | `Git` `Docker` `Postman` |
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 📫 Connect with me
+### 📂 Recent Activity
+- 🚀 Working on cross-platform mobile experiences.
+- 🧩 Solving complex algorithmic challenges.
+- 🏗️ Exploring scalable backend architectures.
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman Bir Singh" height="30" width="40" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryder2003" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://leetcode.com" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
 </p>
 
-<br />
-
-> "Solving the world's problems, one semicolon at a time." 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>

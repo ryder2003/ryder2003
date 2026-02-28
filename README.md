@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Engineering Analytics
+### 📊 Engineering & Algorithmic Analytics
 
 <div align="center">
   <table border="0" width="100%">
@@ -25,8 +25,8 @@
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://github.com/ryder2003">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=82AAFF&hide_border=true&border_radius=10" width="100%" alt="ryder2003's Top Languages" />
+        <a href="https://leetcode.com/ryder2003">
+          <img src="https://leetcard.jacoblin.cool/ryder2003?theme=dark&font=Fira%20Code&ext=activity&bg=0D1117&color=FFFFFF&titleColor=A970FF" width="100%" alt="LeetCode Stats" />
         </a>
       </td>
     </tr>
@@ -35,7 +35,7 @@
   <br />
 
   <a href="https://github.com/ryder2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=FFFFFF&line=A970FF&point=82AAFF&area_color=0D1117&hide_border=true" width="100%" alt="ryder2003's Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=FFFFFF&line=A970FF&point=82AAFF&area_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph" />
   </a>
 </div>
 

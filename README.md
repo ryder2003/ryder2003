@@ -21,12 +21,12 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/ryder2003">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="ryder2003's GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=FFFFFF&hide_border=true&border_radius=10" width="100%" alt="ryder2003's GitHub Streak" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/ryder2003">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="ryder2003's Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=82AAFF&hide_border=true&border_radius=10" width="100%" alt="ryder2003's Top Languages" />
         </a>
       </td>
     </tr>
@@ -35,7 +35,7 @@
   <br />
 
   <a href="https://github.com/ryder2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&theme=tokyo-night&hide_border=true&area_color=82AAFF&line=A970FF&point=FFFFFF" width="100%" alt="ryder2003's Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=FFFFFF&line=A970FF&point=82AAFF&area_color=0D1117&hide_border=true" width="100%" alt="ryder2003's Activity Graph" />
   </a>
 </div>
 

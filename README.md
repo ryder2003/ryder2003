@@ -14,29 +14,23 @@
 
 ---
 
-### 📊 Engineering & Algorithmic Analytics
+### 📊 Engineering Analytics
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/ryder2003">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=FFFFFF&hide_border=true&border_radius=10" width="100%" alt="ryder2003's GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=FFFFFF&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://leetcode.com/ryder2003">
-          <img src="https://leetcard.jacoblin.cool/ryder2003?theme=dark&font=Fira%20Code&ext=activity&bg=0D1117&color=FFFFFF&titleColor=A970FF" width="100%" alt="LeetCode Stats" />
+        <a href="https://wakatime.com/@ryder2003">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryder2003&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=82AAFF&hide_border=true&border_radius=10" width="100%" alt="WakaTime Stats" />
         </a>
       </td>
     </tr>
   </table>
-  
-  <br />
-
-  <a href="https://github.com/ryder2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=FFFFFF&line=A970FF&point=82AAFF&area_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph" />
-  </a>
 </div>
 
 ---

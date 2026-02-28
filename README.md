@@ -17,16 +17,26 @@
 ### 📊 Engineering Analytics
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&theme=radical&hide_border=true&title_color=A970FF&icon_color=82AAFF&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/ryder2003">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="ryder2003's GitHub Streak" />
+        </a>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=82AAFF&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/ryder2003">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="ryder2003's Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
+  
+  <br />
+
+  <a href="https://github.com/ryder2003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&theme=tokyo-night&hide_border=true&area_color=82AAFF&line=A970FF&point=FFFFFF" width="100%" alt="ryder2003's Activity Graph" />
+  </a>
 </div>
 
 ---

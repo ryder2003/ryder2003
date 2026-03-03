@@ -18,19 +18,19 @@
 
 <div align="center">
 
-  <!-- GitHub Stats + Top Languages side by side -->
+  <!-- GitHub Stats + Top Languages — Rickstaa's fork (stable mirror) -->
   <a href="https://github.com/ryder2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryder2003&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ryder2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&langs_count=8&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryder2003&layout=compact&langs_count=8&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12" alt="Top Languages" />
   </a>
 
   <br/>
 
-  <!-- Streak Stats — full width -->
-  <a href="https://github.com/ryder2003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
+  <!-- Streak Stats — DemoLab (reliable, non-Heroku) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
   </a>
 
   <br/>
@@ -42,16 +42,17 @@
 
   <br/>
 
-  <!-- Profile Summary Cards -->
+  <!-- Contribution chart — pure SVG, zero external dependencies -->
   <a href="https://github.com/ryder2003">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryder2003&theme=github_dark" width="95%" alt="Contribution Map" />
+    <img src="https://ghchart.rshah.org/A970FF/ryder2003" width="95%" alt="Contribution Chart" />
   </a>
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryder2003&theme=github_dark" height="160em" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryder2003&theme=github_dark" height="160em" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryder2003&theme=github_dark&utcOffset=5.5" height="160em" alt="Productive Time" />
+  <!-- GitHub Profile Trophy -->
+  <a href="https://github.com/ryder2003">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryder2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" alt="GitHub Trophies" />
+  </a>
 
 </div>
 

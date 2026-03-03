@@ -18,41 +18,49 @@
 
 <div align="center">
 
-  <!-- GitHub Stats + Top Languages — Rickstaa's fork (stable mirror) -->
-  <a href="https://github.com/ryder2003">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryder2003&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ryder2003">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryder2003&layout=compact&langs_count=8&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12" alt="Top Languages" />
-  </a>
+  <!-- Profile Metrics — shields.io (CDN-backed, always available) -->
+  <img src="https://img.shields.io/github/followers/ryder2003?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=A970FF&labelColor=0D1117" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ryder2003?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20STARS&color=82AAFF&labelColor=0D1117&affiliations=OWNER%2CCOLLABORATOR" alt="Stars" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ryder2003&style=for-the-badge&color=A970FF&label=PROFILE%20VIEWS&labelColor=0D1117" alt="Profile Views" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Streak Stats — DemoLab (reliable, non-Heroku) -->
+  <!-- Streak Stats — demolab.com (dedicated hosting, not Vercel/Heroku) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="65%" alt="GitHub Streak" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/ryder2003">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=C9D1D9&line=A970FF&point=82AAFF&area=true&area_color=A970FF&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
-  </a>
-
-  <br/>
-
-  <!-- Contribution chart — pure SVG, zero external dependencies -->
+  <!-- Contribution Heatmap — pure SVG served from GitHub's own data -->
   <a href="https://github.com/ryder2003">
     <img src="https://ghchart.rshah.org/A970FF/ryder2003" width="95%" alt="Contribution Chart" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- GitHub Profile Trophy -->
+  <!-- Activity Graph — separate dedicated deployment -->
   <a href="https://github.com/ryder2003">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryder2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" alt="GitHub Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=C9D1D9&line=A970FF&point=82AAFF&area=true&area_color=A970FF&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
   </a>
+
+  <br/><br/>
+
+  <!-- Tech Proficiency — shields.io static badges, zero downtime -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </div>
 

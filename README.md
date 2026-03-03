@@ -17,20 +17,42 @@
 ### 📊 Engineering Analytics
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/ryder2003">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=FFFFFF&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://wakatime.com/@ryder2003">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryder2003&layout=compact&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&icon_color=82AAFF&hide_border=true&border_radius=10" width="100%" alt="WakaTime Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  <!-- GitHub Stats + Top Languages side by side -->
+  <a href="https://github.com/ryder2003">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryder2003&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ryder2003">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryder2003&layout=compact&langs_count=8&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&icon_color=82AAFF&hide_border=true&border_radius=12" alt="Top Languages" />
+  </a>
+
+  <br/>
+
+  <!-- Streak Stats — full width -->
+  <a href="https://github.com/ryder2003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/ryder2003">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryder2003&bg_color=0D1117&color=C9D1D9&line=A970FF&point=82AAFF&area=true&area_color=A970FF&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
+  </a>
+
+  <br/>
+
+  <!-- Profile Summary Cards -->
+  <a href="https://github.com/ryder2003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryder2003&theme=github_dark" width="95%" alt="Contribution Map" />
+  </a>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryder2003&theme=github_dark" height="160em" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryder2003&theme=github_dark" height="160em" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryder2003&theme=github_dark&utcOffset=5.5" height="160em" alt="Productive Time" />
+
 </div>
 
 ---

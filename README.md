@@ -18,25 +18,45 @@
 
 <div align="center">
 
-  <!-- Profile Metrics — shields.io (CDN-backed, always available) -->
-  <img src="https://img.shields.io/github/followers/ryder2003?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=A970FF&labelColor=0D1117" alt="Followers" />
+  <!-- Competitive Programming Platforms -->
+  <a href="https://leetcode.com/ryder2003">
+    <img src="https://img.shields.io/badge/LeetCode-ryder2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ryder2003?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20STARS&color=82AAFF&labelColor=0D1117&affiliations=OWNER%2CCOLLABORATOR" alt="Stars" />
+  <a href="https://codeforces.com/profile/ryder2003">
+    <img src="https://img.shields.io/badge/Codeforces-ryder2003-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces" />
+  </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ryder2003&style=for-the-badge&color=A970FF&label=PROFILE%20VIEWS&labelColor=0D1117" alt="Profile Views" />
-
-  <br/><br/>
-
-  <!-- Streak Stats — demolab.com (dedicated hosting, not Vercel/Heroku) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="65%" alt="GitHub Streak" />
+  <a href="https://www.codechef.com/users/ryder2003">
+    <img src="https://img.shields.io/badge/CodeChef-ryder2003-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef" />
   </a>
 
   <br/><br/>
 
-  <!-- Contribution Heatmap — pure SVG served from GitHub's own data -->
-  <a href="https://github.com/ryder2003">
-    <img src="https://ghchart.rshah.org/A970FF/ryder2003" width="95%" alt="Contribution Chart" />
+  <!-- Focus & Expertise tiers -->
+  <img src="https://img.shields.io/badge/─────────%20FOCUS%20%26%20EXPERTISE%20─────────-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/DSA%20%26%20Competitive%20Programming-Expert-A970FF?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20(MERN%20%2F%20Next.js)-Advanced-82AAFF?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile%20(Flutter%20%2F%20Dart)-Advanced-C3E88D?style=flat-square&labelColor=0D1117" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Systems%20%26%20C%2B%2B-Advanced-F78C6C?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps%20(AWS%20%2F%20Docker)-Intermediate-FFCB6B?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Active-50FA7B?style=flat-square&labelColor=0D1117" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ryder2003&background=0D1117&stroke=0D1117&ring=A970FF&fire=A970FF&currStreakNum=FFFFFF&currStreakLabel=82AAFF&sideNums=FFFFFF&sideLabels=82AAFF&dates=555555&hide_border=true&border_radius=12" width="65%" alt="GitHub Streak" />
   </a>
 
   <br/><br/>

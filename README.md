@@ -18,39 +18,25 @@
 
 <div align="center">
 
-  <!-- Competitive Programming Platforms -->
-  <a href="https://leetcode.com/ryder2003">
-    <img src="https://img.shields.io/badge/LeetCode-ryder2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode" />
-  </a>
+  <!-- Dev Environment -->
+  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-A970FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
   &nbsp;
-  <a href="https://codeforces.com/profile/ryder2003">
-    <img src="https://img.shields.io/badge/Codeforces-ryder2003-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces" />
-  </a>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-82AAFF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117" />
   &nbsp;
-  <a href="https://www.codechef.com/users/ryder2003">
-    <img src="https://img.shields.io/badge/CodeChef-ryder2003-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef" />
-  </a>
+  <img src="https://img.shields.io/badge/Terminal-PowerShell%20%2F%20Zsh-C3E88D?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F78C6C?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
 
   <br/><br/>
 
-  <!-- Focus & Expertise tiers -->
-  <img src="https://img.shields.io/badge/─────────%20FOCUS%20%26%20EXPERTISE%20─────────-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/DSA%20%26%20Competitive%20Programming-Expert-A970FF?style=flat-square&labelColor=0D1117" />
+  <!-- Currently -->
+  <img src="https://img.shields.io/badge/🔭%20Building-Full%20Stack%20%2B%20Mobile%20Apps-A970FF?style=flat-square&labelColor=0D1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20(MERN%20%2F%20Next.js)-Advanced-82AAFF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌱%20Learning-System%20Design%20%26%20Cloud%20Arch-82AAFF?style=flat-square&labelColor=0D1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mobile%20(Flutter%20%2F%20Dart)-Advanced-C3E88D?style=flat-square&labelColor=0D1117" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Systems%20%26%20C%2B%2B-Advanced-F78C6C?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡%20Sharpening-DSA%20%26%20Competitive%20Programming-C3E88D?style=flat-square&labelColor=0D1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps%20(AWS%20%2F%20Docker)-Intermediate-FFCB6B?style=flat-square&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Active-50FA7B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Flutter%20%7C%20React%20%7C%20C%2B%2B-F78C6C?style=flat-square&labelColor=0D1117" />
 
   <br/><br/>
 
